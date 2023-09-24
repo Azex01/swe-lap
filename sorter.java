@@ -36,26 +36,15 @@ class Main {
             arr[i] = temp;
         }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
-
-    }
-
-    public void sort(int[] array){
-         selectionSort(array);
-
-    }
-
-}
-=======
-}}
->>>>>>> 66f38a496052294f9d6664c44b02f42f3f735107
 
 
 
     }
+
+
+
+
+
 
     public void sort(int[] array){
         insertionSort(array);
@@ -70,4 +59,4 @@ class Main {
 }
 
 
->>>>>>> 2f27a5f704c34aec8e7aae1367c8bd2fc8272269
+
