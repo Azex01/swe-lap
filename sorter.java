@@ -36,8 +36,21 @@ class Main {
             arr[i] = temp;
         }
 
-}}
 
 
+
+    }
+
+    public void sort(int[] array){
+        insertionSort(array);
+
+    }
+    public void sort2(int[] array){
+        selectionSort(array);
+
+    }
+
+
+}
 
 
