@@ -36,6 +36,7 @@ class Main {
             arr[i] = temp;
         }
 
+<<<<<<< HEAD
 
 
     }
@@ -46,3 +47,10 @@ class Main {
     }
 
 }
+=======
+}}
+
+
+
+
+>>>>>>> 2f27a5f704c34aec8e7aae1367c8bd2fc8272269
